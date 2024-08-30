@@ -51,6 +51,3 @@ El dataset utilizado contiene información sobre los clientes de Model Fitness, 
    - Se realizaron recomendaciones para mejorar la retención de clientes basadas en los resultados del análisis.
    - Se identificaron los grupos de clientes más propensos a cancelar y se sugirieron estrategias para cada uno.
 
-## Conclusiones
-
-Las recomendaciones proporcionadas están enfocadas en mejorar la retención de clientes a través de estrategias dirigidas, como programas de fidelización, ofertas personalizadas, y seguimiento proactivo a clientes en riesgo de cancelación.
